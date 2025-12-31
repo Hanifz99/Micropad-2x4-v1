@@ -1,6 +1,6 @@
 # Micropad 2x4 v1
 
-A compact, customizable keypad with programmable buttons that automate complex commands or shortcuts with a single press.
+A compact, customizable keypad with programmable buttons that automate complex commands or shortcuts with a single press.(this project need continue to build)
 
 ## Features
 - 128x32 OLED Display
