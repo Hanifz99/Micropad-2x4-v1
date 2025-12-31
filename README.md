@@ -57,7 +57,7 @@ Feel free to open issues or pull requests for improvements.
 
 ## License
 
-![GPL3 Logo](Assets/gpl3-logo.png)
+![GPL3 Logo](Assets/GNU/gplv3-127x51.png)
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
