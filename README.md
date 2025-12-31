@@ -16,7 +16,6 @@ These are the CAD models designed in Fusion 360.
 ![CAD Model 3](Assets/fusion360/Screenshot%20(28).png)
 ![CAD Model 4](Assets/fusion360/Screenshot%20(29).png)
 
-Made in Fusion 360. Nifty!
 
 ## PCB
 
@@ -24,8 +23,9 @@ The PCB was designed in KiCad.
 
 ![PCB Schematic](Assets/kicad/Screenshot%202025-12-31%20135618.png)
 ![PCB Layout](Assets/kicad/Screenshot%202025-12-31%20135642.png)
+![PCB Front](Assets/kicad/Micropad_alpha.png)
+![PCB Back](Assets/kicad/Micropad_alpha_back.png)
 
-Made in KiCad.
 
 ## Firmware Overview
 
