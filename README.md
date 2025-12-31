@@ -55,12 +55,6 @@ Here is everything you need to build this macropad:
 
 Feel free to open issues or pull requests for improvements.
 
-## License
-
-![GPL3 Logo](Assets/GNU/gplv3-127x51.png)
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Thank you for checking out my project! UwU
