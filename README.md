@@ -18,15 +18,12 @@ Made in Fusion360. Nifty
 
 
 ## PCB
-Here's my PCB! It was made in KiCad. The silkscreen was imported from a Figma image.
 
-Schematic
-<img src=assets/schematic.png alt="Schematic" width="300"/>
+![PCB Schematic](Assets/kicad/Screenshot%202025-12-31%20135618.png)
+![PCB Layout](Assets/kicad/Screenshot%202025-12-31%20135642.png)
 
-PCB
-<img src=assets/pcb.png alt="Schematic" width="300"/>
+Made in Kicad
 
-I used MX_V2 for the keyswitch footprints. I think in retrospect, I should've added a ground plane
 
 ## Firmware Overview
 This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
