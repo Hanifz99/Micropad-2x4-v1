@@ -10,6 +10,9 @@ macropad is a compact,customizable keypad with programmable buttons that automat
 ## CAD Model:
 
 ![CAD Model](Assets/fusion360/Screenshot%20(26).png)
+![CAD Model 2](Assets/fusion360/Screenshot%20(27).png)
+![CAD Model 3](Assets/fusion360/Screenshot%20(28).png)
+![CAD Model 4](Assets/fusion360/Screenshot%20(29).png)
 
 Made in Fusion360. Nifty
 
