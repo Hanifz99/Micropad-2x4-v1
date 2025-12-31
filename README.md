@@ -9,7 +9,7 @@ macropad is a compact,customizable keypad with programmable buttons that automat
 
 ## CAD Model:
 
-<img >
+![CAD Model](Assets/fusion360/Screenshot%20(26).png)
 
 Made in Fusion360. Nifty
 
