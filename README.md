@@ -1,58 +1,64 @@
 # Micropad 2x4 v1
 
-macropad is a compact,customizable keypad with programmable buttons that automate complex commands or shortcuts with a single press
+A compact, customizable keypad with programmable buttons that automate complex commands or shortcuts with a single press.
 
-## Features:
+## Features
 - 128x32 OLED Display
-- 3 SK6812 MINI-E LED
-- 8 Keys
+- 3 SK6812 MINI-E LEDs
+- 8 Programmable Keys
 
-## CAD Model:
+## CAD Model
 
-![CAD Model](Assets/fusion360/Screenshot%20(26).png)
+These are the CAD models designed in Fusion 360.
+
+![CAD Model 1](Assets/fusion360/Screenshot%20(26).png)
 ![CAD Model 2](Assets/fusion360/Screenshot%20(27).png)
 ![CAD Model 3](Assets/fusion360/Screenshot%20(28).png)
 ![CAD Model 4](Assets/fusion360/Screenshot%20(29).png)
 
-Made in Fusion360. Nifty
-
+Made in Fusion 360. Nifty!
 
 ## PCB
+
+The PCB was designed in KiCad.
 
 ![PCB Schematic](Assets/kicad/Screenshot%202025-12-31%20135618.png)
 ![PCB Layout](Assets/kicad/Screenshot%202025-12-31%20135642.png)
 
-Made in Kicad
-
+Made in KiCad.
 
 ## Firmware Overview
-This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
 
-- the rotary encoder changes volume. press to mute
-- The 4 keys currently act as macros I dynamically change in VIA.
-- The OLED is a cat!! Bongocat!! :3
+This macropad uses QMK firmware for mapping the 8 keys. You can customize them for playing music, videos, or other shortcuts.
 
-<img src=assets/bongocat.png alt="Bongo Cat" width="300"/>
+## Bill of Materials (BOM)
 
-I might add more in the future! That's it for now
+Here is everything you need to build this macropad:
 
-## BOM:
-Here should be everything you need to make this hackpad
-
-- 4x Cherry MX Switches
-- 4x DSA Keycaps
-- 5x M3x5x4 Heatset inserts
-- 3x M3x16mm SHCS Bolts
-- 2X M3x12mm SHCS Bolts
-- 5x 1N4148 DO-35 Diodes.
-- 2x WS2812B LEDs
+- 8x Cherry MX Switches
+- 8x Keycaps
+- 4x M2.5 Bolts
+- 8x Diodes
+- 3x SK6812 MINI-E LEDs
 - 1x 0.91" 128x32 OLED Display
-- 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
-- 1x Case (3 printed parts, 2 laser cut parts)
+- 1x Case (2 parts)
 
+## How to Build
 
-## Extra stuff
-Honestly I'm not quite too sure what to add here. Favourite meme? a joke?? Uhhh you can imagine it
+1. Assemble the PCB with components from the BOM.
+2. Flash the firmware using QMK.
+3. Mount switches and keycaps.
+4. Enjoy your custom macropad!
 
-Oh fun fact: I built mine in SF the day before github universe LOL
+## Contributing
+
+Feel free to open issues or pull requests for improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Thank you for checking out my project! UwU
